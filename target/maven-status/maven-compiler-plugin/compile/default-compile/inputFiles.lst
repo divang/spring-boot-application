@@ -1,4 +1,5 @@
-/Users/administrator/IdeaProjects/springbootapplication/src/main/java/com/training/example/ThirdBean.java
-/Users/administrator/IdeaProjects/springbootapplication/src/main/java/com/training/example/SecondBean.java
-/Users/administrator/IdeaProjects/springbootapplication/src/main/java/com/training/example/ConsoleApplication.java
-/Users/administrator/IdeaProjects/springbootapplication/src/main/java/com/training/example/FirstBean.java
+/Users/administrator/IdeaProjects/springbootapplication/src/main/java/com/training/example/console/application/FirstBean.java
+/Users/administrator/IdeaProjects/springbootapplication/src/main/java/com/training/example/console/application/SecondBean.java
+/Users/administrator/IdeaProjects/springbootapplication/src/main/java/com/training/example/web/application/RestControllerExample.java
+/Users/administrator/IdeaProjects/springbootapplication/src/main/java/com/training/example/console/application/ConsoleApplication.java
+/Users/administrator/IdeaProjects/springbootapplication/src/main/java/com/training/example/console/application/ThirdBean.java

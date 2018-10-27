@@ -1,4 +1,5 @@
-com/training/example/SecondBean.class
-com/training/example/FirstBean.class
-com/training/example/ThirdBean.class
-com/training/example/ConsoleApplication.class
+com/training/example/console/application/ConsoleApplication.class
+com/training/example/console/application/ThirdBean.class
+com/training/example/console/application/FirstBean.class
+com/training/example/console/application/SecondBean.class
+com/training/example/web/application/RestControllerExample.class

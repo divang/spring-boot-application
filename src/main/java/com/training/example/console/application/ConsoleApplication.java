@@ -8,7 +8,7 @@ import org.springframework.context.ApplicationContext;
  * This is a simple non web Spring Application.
  */
 
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = "com.training.example")
 public class ConsoleApplication {
 
     public static void main(String[] args){
