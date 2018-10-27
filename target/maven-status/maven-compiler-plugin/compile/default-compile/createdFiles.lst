@@ -1,5 +1,8 @@
-com/training/example/console/application/ConsoleApplication.class
+com/training/example/web/application/CustomContainer.class
 com/training/example/console/application/ThirdBean.class
 com/training/example/console/application/FirstBean.class
+com/training/example/web/application/entities/Value.class
+com/training/example/console/application/ConsoleApplication.class
+com/training/example/web/application/entities/Quote.class
 com/training/example/console/application/SecondBean.class
 com/training/example/web/application/RestControllerExample.class
