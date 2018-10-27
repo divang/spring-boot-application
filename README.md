@@ -1,5 +1,5 @@
 # springbootapplication
-To run from command prompt
+To run from command prompt:
 -Compile and build application jar
     mvn clean install
 -Run
