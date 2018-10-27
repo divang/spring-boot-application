@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class ThirdBean {
+    //Spring will auto wired this instance. No need to instantiate SecondBean explicitly. 
     @Autowired
     SecondBean secondBean;
     public void display(){
