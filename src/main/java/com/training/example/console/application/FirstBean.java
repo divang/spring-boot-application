@@ -1,4 +1,4 @@
-package com.training.example;
+package com.training.example.console.application;
 
 import org.springframework.stereotype.Component;
 
